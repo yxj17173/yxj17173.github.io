@@ -40,7 +40,7 @@ anchorjs: true                          # if you want to customize anchor. check
 # from PR#40, to support local preview for Jekyll 3.0
 gems: [jekyll-paginate]
 
-url: "http://example.com" # the base hostname & protocol for your site
+url: "https://yxj17173.github.io" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
 
