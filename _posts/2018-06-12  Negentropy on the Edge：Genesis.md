@@ -1,6 +1,6 @@
 # Negentropy on the Edge：Genesis
 
-先来谈谈这个公众号“Negentropy on the Edge”的名字由来。
+先来谈谈这个博客“Negentropy on the Edge”的名字由来。
 
 “熵”（entropy）最初是热力学和统计力学的概念，代表了一个系统的内在的混乱程度。Claude Shannon（计算机科学家，信息论之父，人工智能开拓者）本来打算用“不确定性”来表达信息论中这个概念，当他和von Neumann（数学家和物理学家，现代计算机之父，博弈论之父，晚年研究生命科学，提出元胞自动机）讨论这个问题时，von Neumann对Shannon建议说：“你应该把它称之为‘熵’。”并给出两个理由，一是“不确定性”这个概念已被用于统计力学，二是没有人知道“熵”到底是什么😂，不致引发争论。
 
