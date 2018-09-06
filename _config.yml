@@ -40,7 +40,9 @@ anchorjs: true                          # if you want to customize anchor. check
 # from PR#40, to support local preview for Jekyll 3.0
 gems: [jekyll-paginate]
 
-
+url: "https://yxj17173.github.io" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
 
 
 # Markdown settings
@@ -63,7 +65,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: d5a55963c36a4e773d35                            #生成的clientID
   clientSecret: 9580cb7ba48ce8c613021012636ded0640eeb503    #生成的clientSecret
-  repo: yxj17173.github.io   #仓库名称
+  repo: yxj17173.github.io/github-comments-repo   #仓库名称
   owner: yxj17173    #github用户名
   admin: yxj17173
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
