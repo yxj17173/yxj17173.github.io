@@ -1,4 +1,4 @@
-# <center>**Curriculum Vitae**
+# **Curriculum Vitae**
 
 
 
@@ -80,7 +80,7 @@ Psychology, Sociology, Social Network, Complex System, Artificial Intelligence
 
 
 
-# <center>**简历**
+# **简历**
 
 #### **个人详细信息**
 
